@@ -6,9 +6,9 @@ This directory contains tasks related to the basics of Git version control. As p
 
 ## 📁 Contents
 
-- `bash/`: Contains Bash scripts demonstrating basic shell commands.
-- `c/`: Contains a sample C program file.
-- `.gitignore`: Specifies intentionally untracked files to ignore.
+- [bash](https://github.com/JorreJ/holbertonschool-zero_day/tree/main/git/bash) : Contains Bash scripts demonstrating basic shell commands.
+- [c](https://github.com/JorreJ/holbertonschool-zero_day/tree/main/git/c) : Contains a sample C program file.
+- [.gitignore](https://github.com/JorreJ/holbertonschool-zero_day/blob/main/git/.gitignore) : Specifies intentionally untracked files to ignore.
 
 ## 🧠 Concepts Covered
 
