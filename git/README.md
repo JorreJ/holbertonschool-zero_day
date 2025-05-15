@@ -6,8 +6,8 @@ This directory contains tasks related to the basics of Git version control. As p
 
 ## 📁 Contents
 
-- [bash/](https://github.com/JorreJ/holbertonschool-zero_day/tree/update_script/git/bash): Contains Bash scripts demonstrating basic shell commands.
-- [c/](https://github.com/JorreJ/holbertonschool-zero_day/tree/update_script/git/c): Contains a sample C program file.
+- [bash](https://github.com/JorreJ/holbertonschool-zero_day/tree/update_script/git/bash): Contains Bash scripts demonstrating basic shell commands.
+- [c](https://github.com/JorreJ/holbertonschool-zero_day/tree/update_script/git/c): Contains a sample C program file.
 - [js](https://github.com/JorreJ/holbertonschool-zero_day/tree/update_script/git/js): Contains simple JavaScript files.
 
 ## 🧠 Concepts Covered
