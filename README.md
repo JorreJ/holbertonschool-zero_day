@@ -8,7 +8,7 @@ This is my very first repository as a student at Holberton School. It marks the 
 
 This repository includes the following directories:
 
-- [git/](https://github.com/JorreJ/holbertonschool-zero_day/tree/main/git): Introduction to Git version control, including branches, commits, and basic commands.
+- [git](https://github.com/JorreJ/holbertonschool-zero_day/tree/main/git): Introduction to Git version control, including branches, commits, and basic commands.
 
 ## 🎯 Learning Objectives
 
