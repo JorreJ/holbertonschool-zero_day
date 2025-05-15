@@ -8,15 +8,13 @@ This is my very first repository as a student at Holberton School. It marks the 
 
 This repository includes the following directories:
 
-- `0x00-vagrant/`: Basic setup and usage of Vagrant to configure a virtual development environment.
-- `0x03-git/`: Introduction to Git version control, including branches, commits, and basic commands.
+- [git/](https://github.com/JorreJ/holbertonschool-zero_day/tree/main/git): Introduction to Git version control, including branches, commits, and basic commands.
 
 ## 🎯 Learning Objectives
 
 - Understand the principles of Git and version control.
 - Learn how to initialize and manage a Git repository.
 - Get comfortable with the Unix shell and terminal commands.
-- Use Vagrant to provision and manage a virtual machine.
 - Write clean and well-structured `README.md` files using Markdown.
 
 ## 🚀 Getting Started
@@ -34,7 +32,6 @@ Browse through the subdirectories to see the tasks and exercises.
 
 - [Git Documentation](https://git-scm.com/doc)
 - [Markdown Guide](https://www.markdownguide.org/)
-- [Vagrant Docs](https://www.vagrantup.com/docs)
 
 ## 👨‍💻 Author
 
