@@ -1,4 +1,4 @@
-# 0x03-git
+# Git
 
 ## 📘 Introduction
 
@@ -8,7 +8,6 @@ This directory contains tasks related to the basics of Git version control. As p
 
 - `bash/`: Contains Bash scripts demonstrating basic shell commands.
 - `c/`: Contains a sample C program file.
-- `js/`: Contains simple JavaScript files.
 - `.gitignore`: Specifies intentionally untracked files to ignore.
 
 ## 🧠 Concepts Covered
